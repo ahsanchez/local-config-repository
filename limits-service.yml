@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: limits-service
+limits:
+  service:
+    minimun: 88
+    maximun: 8888
