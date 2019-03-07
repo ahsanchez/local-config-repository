@@ -1,0 +1,4 @@
+limits:
+  service:
+    minimun: 22
+    maximun: 2222
